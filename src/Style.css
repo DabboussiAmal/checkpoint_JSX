@@ -1,0 +1,16 @@
+.titleRed{
+    font-family:cursive;
+    font-size: 65px;
+    color: rgb(131, 41, 248);
+    margin: 10px;
+    text-decoration: underline;
+}
+img{
+    width: 450px;
+    height: 400px;
+    padding: 10px;
+}
+.App{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
